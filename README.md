@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rshp
-- 🌱 I’m currently learning Odin Project Fundamentals
+- 🌱 I’m currently learning Odin Project Node.js stack courses
 
 <!---
 rshp/rshp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
